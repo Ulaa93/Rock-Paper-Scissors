@@ -1,2 +1,9 @@
 # Rock-Paper-Scissors
-Mini game: Rock Paper Scissors created with HTML, CSS and JavaScript.
+Mini game: Rock Paper Scissors created to practise JavaScript.
+
+Technologies
+The website was created with usage of:
+
+HTML
+CSS
+JavaScript
