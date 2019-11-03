@@ -49,7 +49,7 @@ const winner=()=>{
         draws=draws+1
        drawsCount.innerHTML=draws;
     } else {
-        result='You loss'
+        result='You lose'
        losses=losses+1
        lossesCount.innerHTML=losses;}
 

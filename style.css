@@ -12,8 +12,8 @@ header {
     justify-items: center;
 }
 main {
-    min-height: 85vh;
-    height: 80vh;
+    min-height: 600px;
+    height: 85vh;
     display: flex;
     flex-direction: column;
 }
@@ -29,7 +29,7 @@ main {
     align-items: center;
     text-align: center;
     flex-wrap: wrap;
-   min-width:300px;
+   min-width:320px;
     width: 60%;
     margin:10px auto;
     padding: 10px;
@@ -81,7 +81,7 @@ main {
     padding: 25px;
     margin: 2vw;
     text-align: center;
-    font-size:6em;
+    font-size:5.5em;
     cursor: pointer;
     transition: 0.1s;
 }
